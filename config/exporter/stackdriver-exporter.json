@@ -1,6 +1,6 @@
 {
 	"apiEndpoint": "monitoring.googleapis.com:443",
-	"exportPeriod": "60s",
+	"exportPeriod": "6s",
 	"metadataFetchTimeout": "600s",
 	"metadataFetchInterval": "10s",
 	"panicOnMetadataFetchFailure": false,
